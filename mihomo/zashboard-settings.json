@@ -14,7 +14,7 @@
   "config/swipe-in-tabs": "false",
   "config/min-proxy-card-width": "130",
   "config/proxy-preview-type": "auto",
-  "config/import-settings-url": "./zashboard-settings.json",
+  "config/import-settings-url": "https://raw.githubusercontent.com/sora-shao/proxy/refs/heads/main/mihomo/zashboard-settings.json",
   "config/use-smart-group-sort": "false",
   "config/table-width-mode": "auto",
   "config/proxy-group-icon-margin": "6",

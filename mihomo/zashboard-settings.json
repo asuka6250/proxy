@@ -13,7 +13,7 @@
   "config/use-connecticon-card": "false",
   "config/min-proxy-card-width": "130",
   "config/swipe-in-tabs": "false",
-  "config/import-settings-url": "https://raw.githubusercontent.com/sora-shao/proxy/mihomo/refs/heads/main/config/mihomo/zashboard-settings.json",
+  "config/import-settings-url": "https://raw.githubusercontent.com/sora-shao/proxy/refs/heads/main/mihomo/zashboard-settings.json",
   "config/use-smart-group-sort": "false",
   "config/proxy-preview-type": "auto",
   "config/table-width-mode": "auto",

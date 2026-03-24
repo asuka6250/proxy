@@ -72,7 +72,7 @@
   "config/display-now-node-in-rule": "true",
   "config/custom-global-node-name": "GLOBAL",
   "config/connection-sort-type": "host",
-  "config/speedtest-timeout": "3000",
+  "config/speedtest-timeout": "1000",
   "config/two-columns": "true",
   "config/hide-unavailable-proxies": "false",
   "config/group-test-urls": "[]",

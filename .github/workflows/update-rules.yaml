@@ -6,6 +6,10 @@ on:
   schedule:
     - cron: '0 20 * * *' 
 
+permissions:
+  contents: write  
+  pull-requests: write 
+
 env:
   MIHOMO_OWNER: MetaCubeX
   MIHOMO_REPO: mihomo

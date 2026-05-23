@@ -6,6 +6,8 @@
 +.jsdelivr.net
 +.gh-proxy.com
 +.gh-proxy.org
++.fastly.net
++.jsdelivr-net.onrender.com.cdn.cloudflare.net
 # ddns
 +.20008888.xyz
 # windows 检测网络
